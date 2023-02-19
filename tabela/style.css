@@ -1,0 +1,80 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#logo{
+    width: 400px;
+    height: 100px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+#header{
+    height: 130px;  
+    background-color: rgb(3, 125, 146);
+}
+#uslog{
+    background-color: rgb(255, 255, 255);
+    height: 25px;
+    width: 240px;
+    border-radius: 5px;
+    float: right;
+}
+#uslog b{
+    position: absolute;
+    padding-top: 3px;
+    padding-left: 10px;
+}
+#bar{
+    height: 60px;
+    background-color: rgb(6, 6, 87);
+}
+select{
+    margin-left: 400px;
+    margin-top: 20px;
+   
+}
+#bar2{
+    height: 60px;
+    margin-right: 550px;
+    margin-left: 550px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    background-color: rgb(6, 6, 87);
+    
+
+}
+#bar2 h2{
+    color: white;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table {
+    padding-left: 550px;
+    padding-right: 550px;
+    padding-bottom: 200px;
+}
+table th{
+    border: solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(30, 139, 139);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table td{
+    border: solid;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer{
+    height: 20px;
+    background-color: rgb(9, 179, 179);
+    height: 30px;
+}
+#textfoot{
+    text-align: center;
+    color: rgb(255, 255, 255)    ;
+}
